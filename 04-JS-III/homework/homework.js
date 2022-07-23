@@ -3,6 +3,7 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
+  //modificado desde vscode
     return array[0];
 }
 
@@ -29,7 +30,7 @@ function incrementarPorUno(array) {
   for (var i=0; i < array.length; i++){
     array[i] =array[i]+1;
     
-  }
+   }
   return array;
 }
 
