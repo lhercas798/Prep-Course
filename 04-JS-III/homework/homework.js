@@ -3,8 +3,7 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
-  //modificado desde vscode
-    return array[0];
+  return array[0];
 }
 
 
